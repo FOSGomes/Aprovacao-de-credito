@@ -5,7 +5,8 @@ principais ferramentas utilizadas por diversas empresas para aprovar ou negar um
 crédito.
 
 O objetivo deste desafio é criar um modelo preditivo calculando a probabilidade de
-inadimplência de cada novo pedido de crédito.
+inadimplência de cada novo pedido de crédito. O arquivo **treino.csv** contém os dados com a informação se dado cliente está inadimplente ou não. O arquivo **teste.csv** contém um conjunto menor de dados sobre outros clientes, sem a informação sobre inadimplência. No arquivo **aprovacao_credito.ipynb** estão as análises dos dados e o modelo de *Machine Learning* usado para prever o comportamento dos clientes.
+O resultado final está no arquivo **teste_completo.csv**
 
 ## 1. Dados
 
